@@ -2,7 +2,7 @@
 
 Support pour une formation Zotero d'une durée d'1h30 dans une unité de recherche.
 
-## Commentaires pour adapter le programme de la formation.
+## Commentaires pour adapter le programme
 
 :inbox_tray: Point 2 : adapter la base de données, le site d'éditeur, etc. à la discipline de l'unité de recherche - si l'unité n'a pas de bibliothèque de groupe Zotero, le point concernant la bibliothèque Zotero du labo ne s'applique pas.
 
