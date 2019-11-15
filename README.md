@@ -1,4 +1,4 @@
-# Gérer sa biblbio avec Zotero - format court
+# Gérer sa biblio avec Zotero - format court
 
 Support pour une formation Zotero d'une durée d'1h30 dans une unité de recherche.
 
